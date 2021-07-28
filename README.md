@@ -1,8 +1,7 @@
 # Hi i'm Amirhossein Rajabpour
 I'm a 3rd year computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br>
 Check out my [Github](https://github.com/Amirhossein-Rajabpour) and [Linkedin](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/) <br>
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white <br>
-https://img.shields.io/badge/Telegram-2CA5E0?style=Amirhosein_Rj&logo=telegram&logoColor=white <br>
+
 - [Projects](#projects)
 - [Grades](#grades)
 - [Technical Skills](#technical-skills)
@@ -14,18 +13,21 @@ https://img.shields.io/badge/Telegram-2CA5E0?style=Amirhosein_Rj&logo=telegram&l
 <br>
 
 ## Projects
-* **Artificial Intelligence Course 1st Project**: Implementing `searching algorithms` like `IDS`, `BBFS` and `A*` from scratch in order to find **optimal path**
-* **Artificial Intelligence Course 2nd Project**: Implementing `genetic algorithm` in order to solve Super Mario game
-* **Artificial Intelligence Course 3rd Project**: Implementing `CSP Backtracking`, `Forward Checking` and `MAC Algorithm`s in order to solve a **binary puzzle**
-* **Artificial Intelligence Course 4th Project**: Implementing `Bigram` and `Unigram` models for **filtering comments**
-* **Handwritten Digit Recognition from scratch**: Computational Intelligence Course Project 1
-* **Fuzzy C-Means Clustering**: Computational Intelligence Course Project 2
-* **Evolutionary Games**: Computational Intelligence Project 3
-* **Advanced Programming Final Project (Jpotify)**: Music player written in Java
-* **Computer Networks Course Projects**
-* **Cache Simulator (Computer Architecture Course Project)**: Cache simulator with `LRU` replacement policy
-* **Operating System Project**: Implementing `scheduling algorithms` and some `system calls` for `XV6 OS`
-* **Multithreaded Chatroom** written in C <br> <br>
+### Artificial Intelligence related projects:
+* [**Artificial Intelligence Course 1st Project**: Implementing `searching algorithms` like `IDS`, `BBFS` and `A*` from scratch in order to find **optimal path**](https://github.com/arminZolfaghari/Searching-Algorithms-IDS-BBFS-AStar)
+* [**Artificial Intelligence Course 2nd Project**: Implementing `genetic algorithm` in order to solve Super Mario game](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm)
+* [**Artificial Intelligence Course 3rd Project**: Implementing `CSP Backtracking`, `Forward Checking` and `MAC Algorithm`s in order to solve a **binary puzzle**](https://github.com/Amirhossein-Rajabpour/Constraint-Satisfaction-Problems)
+* [**Artificial Intelligence Course 4th Project**: Implementing `Bigram` and `Unigram` models for **filtering comments**](https://github.com/arminZolfaghari/NLP-Comment-Filtering)
+* [**Handwritten Digit Recognition from scratch**: Computational Intelligence Course Project 1](https://github.com/Amirhossein-Rajabpour/Handwritten-Digit-Recognition-from-scratch)
+* [**Fuzzy C-Means Clustering**: Computational Intelligence Course Project 2](https://github.com/Amirhossein-Rajabpour/Fuzzy-C-Means-Clustering)
+* [**Evolutionary Games** (Computational Intelligence Project 3): Combining `Neural Networks` and `Genetic algorithm`](https://github.com/Amirhossein-Rajabpour/Evolutionary-Games/tree/master)
+* [**Digikala data science competition**](https://github.com/Amirhossein-Rajabpour/Digikala-Data-Cup)
+### Other projects:
+* [**Advanced Programming Final Project (Jpotify)**: Music player written in Java](https://github.com/Amirhossein-Rajabpour/Jpotify)
+* [**Computer Networks Course Projects**](https://github.com/Amirhossein-Rajabpour/Computer-Networks-Course-Projects)
+* [**Cache Simulator (Computer Architecture Course Project)**: Cache simulator with `LRU` replacement policy](https://github.com/Amirhossein-Rajabpour/Cache-Simulator)
+* [**Operating System Project**: Implementing `scheduling algorithms` and some `system calls` for `XV6 OS`](https://github.com/Amirhossein-Rajabpour/Operating-System-Project)
+* [**Multithreaded Chatroom** written in C](https://github.com/Amirhossein-Rajabpour/Client-Server) <br> <br>
 
 
 ## Grades
