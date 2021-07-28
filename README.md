@@ -3,7 +3,7 @@ I'm a 4th year computer engineering student at [Amirkabir University of Technolo
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Amirhossein-Rajabpour)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Amirhosein_Rj) <br>
-Emails : rajabpoura@aut.ac.ir, rajabpouramirhosein@gmail.com
+`Emails` : rajabpoura@aut.ac.ir, rajabpouramirhosein@gmail.com
 - [Projects](#projects)
 - [Grades](#grades)
 - [Technical Skills](#technical-skills)
@@ -43,12 +43,41 @@ Some important grades:
 
 
 ## Technical Skills
-•	**Programming Languages**: Python, C, Java, Shell Scripting, Octave <br>
-•	**Operating Systems**: Windows, Linux (Ubuntu) <br>
-•	**Artificial Intelligence**: Tensorflow, Pytorch, Fastai <br>
-•	**Database Systems**: MySQL <br>
-•	**Web Development**: Django, HTML, CSS <br>
-•	**Miscellaneous**: Docker, Jira, Git, Latex, Numpy, Pandas, Wireshark, GNS3, Arduino, Verilog, VHDL <br> <br>
+•	**Programming Languages**: <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+and `Octave` <br>
+•	**Operating Systems**: <br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <br>
+•	**Artificial Intelligence**: <br> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> and `Fastai` <br>
+•	**Database Systems**: <br>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
+•	**Web Development**: <br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <br>
+•	**Miscellaneous**: <br>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+`Jira`,
+`Wireshark`,
+`GNS3`,
+`Verilog`,
+`VHDL` <br> <br>
 
 
 ## Education
