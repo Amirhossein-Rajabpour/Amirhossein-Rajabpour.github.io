@@ -1,8 +1,10 @@
 # Hi i'm Amirhossein Rajabpour
-I'm a 4th year computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br> <br>
+I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br>
+
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Amirhossein-Rajabpour)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Amirhosein_Rj) <br>
+
 Emails : rajabpoura@aut.ac.ir, rajabpouramirhosein@gmail.com <br>
 My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Amirhossein%20Rajabpour-CV.pdf)]
 - [Projects](#projects)
@@ -73,7 +75,7 @@ and `Octave` <br>
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />,
 `Jira`,
 `Wireshark`,
 `GNS3`,
