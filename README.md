@@ -109,5 +109,35 @@ and `Octave` <br>
 
 ## Certificates
 ### Technical certificates
+#### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20ELE4GRHJRZGX%20(specialization).png" />
+---
+#### Course 1: Neural Networks and Deep Learning
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20nn%20and%20dl%20(1).png" />
 
+---
+#### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20PQAHNEXRVKLR%20(2).png" />
+
+---
+#### Course 3: Structuring Machine Learning Projects
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20H8ZRCHCQZJ84%20(3).png" />
+
+---
+#### Course 4: Convolutional Neural Networks
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20ZRRES8LPMN7G%20(4).png" />
+
+---
+#### Course 5: Sequence Models
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20NSG2TGWSFD5A%20(5).png" /> <br>
+
+---
+#### Machine Learning Coursera: <br><br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera-VTNABLPDN92U.jpg" />
+<br>
+
+---
+#### Quera Django Course: <br><br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/1ede8fdee25541e1bf1893d0f24b5213.jpg" /> <br>
+
+---
 ### Language certificates
+#### B1 ÖSD Prüfung:
+
