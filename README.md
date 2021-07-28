@@ -1,13 +1,16 @@
 # Hi i'm Amirhossein Rajabpour
-
+I'm a 3rd year computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br>
+Check out my [Github](https://github.com/Amirhossein-Rajabpour) and [Linkedin]() <br>
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white <br>
+https://img.shields.io/badge/Telegram-2CA5E0?style=Amirhosein_Rj&logo=telegram&logoColor=white <br>
 - [Projects](#projects)
-- [Grades]()
-- [Technical Skills]()
-- [Education]()
-- [Teaching Experiences]()
-- [Working Experiences]()
-- [Languages]()
-- [Certificates]()
+- [Grades](#grades)
+- [Technical Skills](#technical-skills)
+- [Education](#education)
+- [Teaching Experiences](#teaching-experiences)
+- [Working Experiences](#working-experiences)
+- [Languages](#languages)
+- [Certificates](#certificates)
 <br>
 
 ## Projects
@@ -44,7 +47,7 @@ Some important grades:
 
 
 ## Education
-* **BACHELOR OF COMPUTER ENGINEERING | AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC), TEHRAN, IRAN | 2018 - PRESENT** <br>
+* **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
 ·	GPA: 16.70 / 20 ( /4.00)
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: High School 18.31 / 20 (3.66 / 4) <br>
