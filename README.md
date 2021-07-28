@@ -1,7 +1,6 @@
 # Hi i'm Amirhossein Rajabpour
 I'm a 3rd year computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br>
 Check out my [Github](https://github.com/Amirhossein-Rajabpour) and [Linkedin](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/) <br>
-![image]({}) <br>
 <img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" /> <br>
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> <br>
 <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> <br>
