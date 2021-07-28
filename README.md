@@ -22,6 +22,7 @@ Check out my [Github](https://github.com/Amirhossein-Rajabpour) and [Linkedin](h
 * [**Fuzzy C-Means Clustering**: Computational Intelligence Course Project 2](https://github.com/Amirhossein-Rajabpour/Fuzzy-C-Means-Clustering)
 * [**Evolutionary Games** (Computational Intelligence Project 3): Combining `Neural Networks` and `Genetic algorithm`](https://github.com/Amirhossein-Rajabpour/Evolutionary-Games/tree/master)
 * [**Digikala data science competition**](https://github.com/Amirhossein-Rajabpour/Digikala-Data-Cup)
+
 ### Other projects:
 * [**Advanced Programming Final Project (Jpotify)**: Music player written in Java](https://github.com/Amirhossein-Rajabpour/Jpotify)
 * [**Computer Networks Course Projects**](https://github.com/Amirhossein-Rajabpour/Computer-Networks-Course-Projects)
@@ -73,3 +74,6 @@ Some important grades:
 
 
 ## Certificates
+### Technical certificates
+
+### Language certificates
