@@ -111,8 +111,8 @@ and `Octave` <br>
 ### Technical certificates
 #### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20ELE4GRHJRZGX%20(specialization).png" />
 ---
-#### Course 1: Neural Networks and Deep Learning
-<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Certificates/Coursera%20nn%20and%20dl%20(1).png" />
+#### Course 1: Neural Networks and Deep Learning edited
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20nn%20and%20dl%20(1).png" />
 
 ---
 #### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
