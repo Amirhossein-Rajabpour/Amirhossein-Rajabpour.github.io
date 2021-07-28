@@ -1,6 +1,6 @@
 # Hi i'm Amirhossein Rajabpour
 I'm a 3rd year computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br>
-Check out my [Github](https://github.com/Amirhossein-Rajabpour) and [Linkedin]() <br>
+Check out my [Github](https://github.com/Amirhossein-Rajabpour) and [Linkedin](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/) <br>
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white <br>
 https://img.shields.io/badge/Telegram-2CA5E0?style=Amirhosein_Rj&logo=telegram&logoColor=white <br>
 - [Projects](#projects)
