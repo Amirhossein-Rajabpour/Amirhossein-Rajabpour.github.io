@@ -111,24 +111,39 @@ and `Octave` <br>
 ### Technical certificates
 #### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20ELE4GRHJRZGX%20(specialization).png" />
 ---
-#### Course 1: Neural Networks and Deep Learning
+<details>
+<summary>Course 1 (Deep Learning Specialization): Neural Networks and Deep Learning</summary>
+<br>
 <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20nn%20and%20dl%20(1).png" />
+</details>
 
 ---
-#### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+<details>
+<summary>Course 2: Improving Deep Neural Networks (Deep Learning Specialization): Hyperparameter tuning, Regularization and Optimization</summary>
+<br>
 <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20PQAHNEXRVKLR%20(2).png" />
+</details>
 
 ---
-#### Course 3: Structuring Machine Learning Projects
+<details>
+<summary>Course 3 (Deep Learning Specialization): Structuring Machine Learning Projects</summary>
+<br>
 <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20H8ZRCHCQZJ84%20(3).png" />
+</details>
 
 ---
-#### Course 4: Convolutional Neural Networks
+<details>
+<summary>Course 4 (Deep Learning Specialization): Convolutional Neural Networks</summary>
+<br>
 <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20ZRRES8LPMN7G%20(4).png" />
+</details>
 
 ---
-#### Course 5: Sequence Models
+<details>
+<summary>Course 5 (Deep Learning Specialization): Sequence Models</summary>
+<br>
 <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20NSG2TGWSFD5A%20(5).png" /> <br>
+</details>
 
 ---
 #### Machine Learning Coursera: <br><br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera-VTNABLPDN92U.jpg" />
@@ -140,8 +155,3 @@ and `Octave` <br>
 ---
 #### Introduction to containers w/ Dockers, Kubernetes and OpenShift: <br><br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20LTDUGCDKGT7N%20devops%20IBM.png" />
 <br>
-
----
-### Language certificates
-#### B1 ÖSD Prüfung:
-
