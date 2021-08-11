@@ -1,5 +1,5 @@
 # Hi i'm Amirhossein Rajabpour
-I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). <br>
+I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/). My research interests are `Artificial Intelligence`, `Deep learning`, ` Time Series Analysis` and ` Financial Markets`.<br>
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Amirhossein-Rajabpour)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/)
@@ -93,7 +93,7 @@ and `Octave` <br>
 
 ## Teaching Experiences
 * **TEACHING ASSISTANT | ALGORITHM DESIGN | JAN 2021 – JUN 2021** <br>
-·	Under the supervision of [Alireza Bagheri](https://aut.ac.ir/cv/2072/Alireza%20Bagheri), Amirkabir University of Technology <br> <br>
+·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br> <br>
 
 
 ## Working Experiences
