@@ -39,10 +39,10 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 
 ## Grades
 Some important grades:
-* **Artificial Intelligence**: 18.6/20 (3.72/4)
+* **Artificial Intelligence**: 18.6/20 (4/4)
 * **Algorithm Design**: 20/20 (4/4)
-* **Computational Intelligence**: 18.5/20 (3.7/4)
-* **Operating Systems**: 18.16/20 (3.6/4)
+* **Computational Intelligence**: 18.5/20 (4/4)
+* **Operating Systems**: 18.16/20 (4/4)
 * **Microprocessor and Assembly Language**: 20/20 (4/4) <br> <br>
 
 
@@ -86,7 +86,7 @@ and `Octave` <br>
 
 ## Education
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 3.44 /4.00
+·	GPA: 3.54 /4.00 (last two semesters' GPA: 4/4)
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: High School 18.31 / 20 (3.66 / 4) <br>
 ·	GPA: Pre-University 19.20 / 20 (3.84/ 4) <br> <br>
