@@ -93,13 +93,19 @@ and `Octave` <br>
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
 ·	GPA: 3.54 /4.00 (last two semesters' GPA: 4/4)
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
-·	GPA: High School 18.31 / 20 (3.66 / 4) <br>
-·	GPA: Pre-University 19.20 / 20 (3.84/ 4) <br> <br>
+·	GPA: Pre-University 19.35/20 (4/4) <br>
+. GPA: High School 19.41/20 (4/4) <br> <br>
 
 
 ## Teaching Experiences
+* **TEACHING ASSISTANT | MICROPROCESSOR AND ASSEMBLY LANGUAGE | SEP 2021 – PRESENT** <br>
+·	Under the supervisor of [Hamed Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ), Amirkabir University of Technology <br>
+·	Defining and grading assignments
+
 * **TEACHING ASSISTANT | ALGORITHM DESIGN | JAN 2021 – JUN 2021** <br>
-·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br> <br>
+·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
+·	Defining and grading assignments <br>
+·	Taking quizzes <br> <br>
 
 
 ## Working Experiences
