@@ -98,10 +98,6 @@ and `Octave` <br>
 
 
 ## Teaching Experiences
-* **TEACHING ASSISTANT | MICROPROCESSOR AND ASSEMBLY LANGUAGE | SEP 2021 – PRESENT** <br>
-·	Under the supervisor of [Hamed Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ), Amirkabir University of Technology <br>
-·	Defining and grading assignments
-
 * **TEACHING ASSISTANT | ALGORITHM DESIGN | JAN 2021 – JUN 2021** <br>
 ·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
 ·	Defining and grading assignments <br>
