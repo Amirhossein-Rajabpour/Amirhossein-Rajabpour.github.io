@@ -109,6 +109,8 @@ and `Octave` <br>
 
 
 ## Working Experiences
+* **R&D SOFTWARE ENGINEER | CROUSE PJS CO. | OCT 2021 – PRESENT** <br>
+·	Working on a Artificial Intelligence Vision problem <br>
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
 ·	Provide technological solutions in the field of e-commerce, financial and credit services <br> <br>
 
