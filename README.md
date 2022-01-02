@@ -172,6 +172,12 @@ and `Octave` <br>
 
 ---
 ### Language certificates
-ÖSD Zertifikat B1:
+#### ÖSD Zertifikat B2:
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/B2.png" />
+
+---
+<details>
+<summary>ÖSD Zertifikat B1</summary>
 <br>
 <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/B1.jpg" />
+</details>
