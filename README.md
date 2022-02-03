@@ -25,6 +25,7 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 
 ## Projects
 ### Artificial Intelligence related projects:
+* [**Information Retrieval Course Project**: Implementing a search engine using different search models and algorithms like binary search, `tf-idf` and `word embeddings`. Also implementing `K-means clustering` and `KNN` algorithms to speed up the search](https://github.com/Amirhossein-Rajabpour/Information-Retrieval-Project)
 * [**Artificial Intelligence Course 1st Project**: Implementing `searching algorithms` like `IDS`, `BBFS` and `A*` from scratch in order to find **optimal path**](https://github.com/arminZolfaghari/Searching-Algorithms-IDS-BBFS-AStar)
 * [**Artificial Intelligence Course 2nd Project**: Implementing `genetic algorithm` in order to solve Super Mario game](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm)
 * [**Artificial Intelligence Course 3rd Project**: Implementing `CSP Backtracking`, `Forward Checking` and `MAC Algorithm`s in order to solve a **binary puzzle**](https://github.com/Amirhossein-Rajabpour/Constraint-Satisfaction-Problems)
@@ -44,11 +45,15 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 
 ## Grades
 Some important grades:
+* **Information Retrieval**: 19.28/20 (4/4) 
 * **Artificial Intelligence**: 18.6/20 (4/4)
 * **Algorithm Design**: 20/20 (4/4)
 * **Computational Intelligence**: 18.5/20 (4/4)
 * **Operating Systems**: 18.16/20 (4/4)
-* **Microprocessor and Assembly Language**: 20/20 (4/4) <br> <br>
+* **Microprocessor and Assembly Language**: 20/20 (4/4) 
+* **Software Engineering 2**: 20/20 (4/4)
+* **Web Programming**: 20/20 (4/4)
+<br> <br>
 
 
 ## Technical Skills
