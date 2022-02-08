@@ -96,14 +96,15 @@ and `Octave` <br>
 
 ## Education
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 3.54 /4.00 (last two semesters' GPA: 4/4)
+·	GPA: 3.62 /4.00 -  GPA (last two years): 18.70 (4/4)
+
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: Pre-University 19.35/20 (4/4) <br>
 . GPA: High School 19.41/20 (4/4) <br> <br>
 
 
 ## Teaching Experiences
-* **TEACHING ASSISTANT | ALGORITHM DESIGN | OCT 2021 – PRESENT** <br>
+* **TEACHING ASSISTANT | ALGORITHM DESIGN | OCT 2021 – JAN 2022** <br>
 ·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
 ·	Grading assignments <br>
 ·	Taking quizzes <br> <br>
@@ -114,8 +115,9 @@ and `Octave` <br>
 
 
 ## Working Experiences
-* **R&D SOFTWARE ENGINEER | [CROUSE PJS CO.](https://www.linkedin.com/company/crousepjsco/mycompany/) | OCT 2021 – PRESENT** <br>
+* **R&D SOFTWARE ENGINEER | [CROUSE PJS CO.](https://www.linkedin.com/company/crousepjsco/mycompany/) | OCT 2021 – JAN 2022** <br>
 ·	Working on an Artificial Intelligence Vision problem <br>
+
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
 ·	Provide technological solutions in the field of e-commerce, financial and credit services <br> <br>
 
