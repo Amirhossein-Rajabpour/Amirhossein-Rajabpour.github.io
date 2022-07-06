@@ -45,14 +45,17 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 
 ## Grades
 Some important grades:
+* **Data Mining**: 19.10/20 (4/4) 
 * **Information Retrieval**: 19.28/20 (4/4) 
 * **Artificial Intelligence**: 18.6/20 (4/4)
 * **Algorithm Design**: 20/20 (4/4)
 * **Computational Intelligence**: 18.5/20 (4/4)
-* **Operating Systems**: 18.16/20 (4/4)
+* **Cloud Computing**: 20/20 (4/4)
+* **Internet of Things**: 19.57/20 (4/4)
 * **Microprocessor and Assembly Language**: 20/20 (4/4) 
 * **Software Engineering 2**: 20/20 (4/4)
 * **Web Programming**: 20/20 (4/4)
+* **Operating Systems**: 18.16/20 (4/4)
 <br> <br>
 
 
@@ -96,7 +99,7 @@ and `Octave` <br>
 
 ## Education
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 3.62 /4.00 -  GPA (last two years): 18.70 (4/4)
+·	GPA: 17.11 (3.65/4) -  GPA (last two years): 18.62 (4/4)
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: Pre-University 19.35/20 (4/4) <br>
@@ -119,7 +122,7 @@ and `Octave` <br>
 ·	Working on an Artificial Intelligence Vision problem <br>
 
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
-·	Provide technological solutions in the field of e-commerce, financial and credit services <br> <br>
+·	Working with docker, minikube and some Backend stuff <br> <br>
 
 
 ## Languages
