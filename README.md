@@ -98,7 +98,10 @@ Some important grades:
 `GNS3`,
 `Verilog`,
 `VHDL` <br> <br>
-[//]: <> (https://github.com/Ileriayo/markdown-badges)
+
+<!---
+https://github.com/Ileriayo/markdown-badges
+-->
 
 
 ## Education
