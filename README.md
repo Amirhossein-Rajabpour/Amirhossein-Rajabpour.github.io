@@ -27,6 +27,7 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 ## Projects
 ### Artificial Intelligence related projects:
 * [**Information Retrieval Course Project**: Implementing a search engine using different search models and algorithms like binary search, `tf-idf` and `word embeddings`. Also implementing `K-means clustering` and `KNN` algorithms to speed up the search](https://github.com/Amirhossein-Rajabpour/Information-Retrieval-Project)
+* [**Data Mining Course Project**: Creating different `XGBoost` models and preprocessing the data](https://github.com/Amirhossein-Rajabpour/Data-Mining-XGBoost-Project)
 * [**Artificial Intelligence Course 1st Project**: Implementing `searching algorithms` like `IDS`, `BBFS` and `A*` from scratch in order to find **optimal path**](https://github.com/arminZolfaghari/Searching-Algorithms-IDS-BBFS-AStar)
 * [**Artificial Intelligence Course 2nd Project**: Implementing `genetic algorithm` in order to solve Super Mario game](https://github.com/Amirhossein-Rajabpour/Genetic-Algorithm)
 * [**Artificial Intelligence Course 3rd Project**: Implementing `CSP Backtracking`, `Forward Checking` and `MAC Algorithm`s in order to solve a **binary puzzle**](https://github.com/Amirhossein-Rajabpour/Constraint-Satisfaction-Problems)
@@ -35,6 +36,7 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 * [**Fuzzy C-Means Clustering**: Computational Intelligence Course Project 2](https://github.com/Amirhossein-Rajabpour/Fuzzy-C-Means-Clustering)
 * [**Evolutionary Games** (Computational Intelligence Project 3): Combining `Neural Networks` and `Genetic algorithm`](https://github.com/Amirhossein-Rajabpour/Evolutionary-Games/tree/master)
 * [**Digikala data science competition**](https://github.com/Amirhossein-Rajabpour/Digikala-Data-Cup)
+* [**Bioinformatic Course Assignments**: Implementing `semi-global alignment`, `star alignment` and `profile`](https://github.com/Amirhossein-Rajabpour/Bioinformatics-Course-Assignments)
 
 ### Other projects:
 * [**Advanced Programming Final Project (Jpotify)**: Music player written in Java](https://github.com/Amirhossein-Rajabpour/Jpotify)
