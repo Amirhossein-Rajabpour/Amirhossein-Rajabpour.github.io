@@ -1,4 +1,4 @@
-# Hi i'm Amirhossein Rajabpour
+# Hi I'm Amirhossein Rajabpour
 I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
 My research interests are: 
 * `Artificial Intelligence`
