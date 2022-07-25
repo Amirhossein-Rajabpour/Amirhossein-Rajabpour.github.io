@@ -19,7 +19,7 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 - [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Teaching Experiences](#teaching-experiences)
-- [Working Experiences](#working-experiences)
+- [Work and Research Experiences](#work-and-research-experiences)
 - [Languages](#languages)
 - [Certificates](#certificates)
 <br>
