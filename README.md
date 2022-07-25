@@ -127,17 +127,22 @@ https://github.com/Ileriayo/markdown-badges
 ·	Taking quizzes <br> <br>
 
 
-## Working Experiences
+## Work and Research Experiences
 * **R&D SOFTWARE ENGINEER | [CROUSE PJS CO.](https://www.linkedin.com/company/crousepjsco/mycompany/) | OCT 2021 – JAN 2022** <br>
-·	Working on an Artificial Intelligence Vision problem <br>
+Working on an Artificial Intelligence Vision problem. My job was to design a light model to do the following to recognize whether LEDs on the monitor work fine:
+  *	Localizing LEDs on the monitor
+  *	Clustering LEDs light pixels and using the more valuable clusters for extracting light information with fuzzy C-means clustering
+  *	Extracting luminance and wavelength from those selected clusters
+  *	Use different regression models for different LED colors to detect malfunctioning LEDs
+ <br>
 
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
-·	Working with docker, minikube and some Backend stuff <br> <br>
+Working with docker, minikube and some Backend stuff <br> <br>
 
 
 ## Languages
 •	**Persian**: Native <br>
-•	**English**: Professional working proficiency <br>
+•	**English**: Professional working proficiency. Test scheduled for Oct. 22. <br>
 •	**German**: Professional working proficiency (B2) <br> <br>
 
 
