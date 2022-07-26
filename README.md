@@ -116,18 +116,13 @@ https://github.com/Ileriayo/markdown-badges
 . GPA: High School 19.41/20 (4/4) <br> <br>
 
 
-## Teaching Experiences
-* **TEACHING ASSISTANT | ALGORITHM DESIGN | OCT 2021 – JAN 2022** <br>
-·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
-·	Grading assignments <br>
-·	Taking quizzes <br> <br>
-* **TEACHING ASSISTANT | ALGORITHM DESIGN | JAN 2021 – JUN 2021** <br>
-·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
-·	Defining and grading assignments <br>
-·	Taking quizzes <br> <br>
-
 
 ## Work and Research Experiences
+* **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2022 – PRESENT** <br>
+Working with a research team supervised by [Hamed Farbe](https://scholar.google.ca/citations?user=PAZOYiAAAAAJ&hl=en). I was responsible for implementing a graph 
+convolutional network from a time series dataset.
+<br>
+
 * **R&D SOFTWARE ENGINEER | [CROUSE PJS CO.](https://www.linkedin.com/company/crousepjsco/mycompany/) | OCT 2021 – JAN 2022** <br>
 Working on an Artificial Intelligence Vision problem. My job was to design a light model to do the following to recognize whether LEDs on the monitor work fine:
   *	Localizing LEDs on the monitor
@@ -138,6 +133,17 @@ Working on an Artificial Intelligence Vision problem. My job was to design a lig
 
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
 Working with docker, minikube and some Backend stuff <br> <br>
+
+
+## Teaching Experiences
+* **TEACHING ASSISTANT | ALGORITHM DESIGN | OCT 2021 – JAN 2022** <br>
+·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
+·	Grading assignments <br>
+·	Taking quizzes <br> <br>
+* **TEACHING ASSISTANT | ALGORITHM DESIGN | JAN 2021 – JUN 2021** <br>
+·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
+·	Defining and grading assignments <br>
+·	Taking quizzes <br> <br>
 
 
 ## Languages
