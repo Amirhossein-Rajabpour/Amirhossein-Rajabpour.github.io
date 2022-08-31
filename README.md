@@ -136,14 +136,18 @@ Working with docker, minikube and some Backend stuff <br> <br>
 
 
 ## Teaching Experiences
-* **TEACHING ASSISTANT | ALGORITHM DESIGN | OCT 2021 – JAN 2022** <br>
-·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
-·	Grading assignments <br>
-·	Taking quizzes <br> <br>
-* **TEACHING ASSISTANT | ALGORITHM DESIGN | JAN 2021 – JUN 2021** <br>
-·	Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), Amirkabir University of Technology <br>
-·	Defining and grading assignments <br>
-·	Taking quizzes <br> <br>
+* **TEACHING ASSISTANT | CLOUD COMPUTING | SEP 2021 – PRESENT** <br>
+    *	Under the supervision of [S. Ahmad Javadi](https://scholar.google.com/citations?hl=en&user=Va7RTUsAAAAJ), Amirkabir University of Technology <br>
+    *	Designing and grading assignments and projects <br>
+
+* **TEACHING ASSISTANT | ALGORITHM DESIGN | 3 SEMESTERS** <br>
+    . Jan 2022 – Jun 2022 <br>
+    .	Oct 2021 – Jan 2022 <br>
+    .	Jan 2021 – Jun 2021 <br>
+    * Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), and [Sajad Shirali-Shahreza](https://sajad.shirali.ir/index.html) Amirkabir University of Technology <br>
+    *	Defining and grading assignments <br>
+    *	Taking quizzes <br> <br>
+
 
 
 ## Languages
