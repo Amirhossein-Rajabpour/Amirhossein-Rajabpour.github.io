@@ -13,7 +13,7 @@ My research interests are:
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Amirhosein_Rj) <br>
 
 University mail: rajabpoura@aut.ac.ir <br>
-My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Amirhossein%20Rajabpour-CV.pdf)]
+My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Resume_Amirhossein_Rajabpour.pdf)]
 - [Projects](#projects)
 - [Grades](#grades)
 - [Technical Skills](#technical-skills)
