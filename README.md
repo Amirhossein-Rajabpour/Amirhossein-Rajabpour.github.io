@@ -109,7 +109,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ## Education
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 17.11 (3.65/4) -  GPA (last two years): 18.62 (4/4)
+·	GPA: 17.11 (3.65/4) -  GPA (last two years): 18.62 (3.95/4)
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: Pre-University 19.35/20 (4/4) <br>
