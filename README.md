@@ -1,5 +1,5 @@
 # Hi I'm Amirhossein Rajabpour
-I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
+I'm a senior Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
 My research interests are: 
 * `Artificial Intelligence`
 * `Deep learning`
@@ -19,7 +19,7 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 - [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Teaching Experiences](#teaching-experiences)
-- [Work and Research Experiences](#work-and-research-experiences)
+- [Research and Work Experiences](#research-and-work-experiences)
 - [Languages](#languages)
 - [Certificates](#certificates)
 <br>
@@ -40,6 +40,7 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 
 ### Other projects:
 * [**Advanced Programming Final Project (Jpotify)**: Music player written in Java](https://github.com/Amirhossein-Rajabpour/Jpotify)
+* **Internet of Things practical assignments**: Implementing multiple scenarios using `NodeMCU` board and various sensors and actuators, programming the board using `Arduino` language. Moreover, implementing web-based solutions for some scenarios
 * [**Computer Networks Course Projects**](https://github.com/Amirhossein-Rajabpour/Computer-Networks-Course-Projects)
 * [**Cache Simulator (Computer Architecture Course Project)**: Cache simulator with `LRU` replacement policy](https://github.com/Amirhossein-Rajabpour/Cache-Simulator)
 * [**Operating System Project**: Implementing `scheduling algorithms` and some `system calls` for `XV6 OS`](https://github.com/Amirhossein-Rajabpour/Operating-System-Project)
@@ -109,7 +110,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ## Education
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 17.11 (3.65/4) -  GPA (last two years): 18.62 (3.95/4)
+·	GPA: 18.62 (3.95/4) - cGPA: 17.11 (3.65/4)
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: Pre-University 19.35/20 (4/4) <br>
@@ -117,7 +118,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 
-## Work and Research Experiences
+## Research and Work Experiences
 * **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2022 – PRESENT** <br>
 Working with a research team supervised by [Hamed Farbe](https://scholar.google.ca/citations?user=PAZOYiAAAAAJ&hl=en). I was responsible for implementing a graph 
 convolutional network from a time series dataset.
@@ -138,7 +139,7 @@ Working with docker, minikube and some Backend stuff <br> <br>
 ## Teaching Experiences
 * **TEACHING ASSISTANT | CLOUD COMPUTING | FALL 2022** <br>
 . Under the supervision of [S. Ahmad Javadi](https://scholar.google.com/citations?hl=en&user=Va7RTUsAAAAJ), Amirkabir University of Technology <br>
-.	Designing and grading assignments and projects <br>
+.	 Designing (and grading) practical assignments about using APIs, working with cloud services, and working with Docker and Kubernetes <br>
 
 * **TEACHING ASSISTANT | ALGORITHM DESIGN |  SPRING 2022 & FALL 2021 & SPRING 2021** <br>
 . Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), and [Sajad Shirali-Shahreza](https://sajad.shirali.ir/index.html) Amirkabir University of Technology <br>
