@@ -150,7 +150,7 @@ Working with docker, minikube and some Backend stuff <br> <br>
 
 ## Languages
 •	**Persian**: Native <br>
-•	**English**: Professional working proficiency. Test scheduled for Oct. 22. <br>
+•	**English**: TOEFL iBT: 109 (R: 26, L: 28, S: 26, W:29) <br>
 •	**German**: Professional working proficiency (B2) <br> <br>
 
 
