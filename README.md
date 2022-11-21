@@ -205,14 +205,14 @@ Working with docker, minikube and some Backend stuff <br> <br>
 <details>
 <summary>Course 2 (GAN Specialization): Build Better Generative Adversarial Networks</summary>
 <br>
-<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%2020C692PG2UREZP.png" />
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20C692PG2UREZP.png" />
 </details>
 
 ---
 <details>
 <summary>Course 3 (GAN Specialization): Apply Generative Adversarial Networks</summary>
 <br>
-<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%2020GFMYF8KNV39C.png" />
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20GFMYF8KNV39C.png" />
 </details>
 
 ---
