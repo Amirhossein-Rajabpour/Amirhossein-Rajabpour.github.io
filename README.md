@@ -193,6 +193,29 @@ Working with docker, minikube and some Backend stuff <br> <br>
 </details>
 
 ---
+#### GAN Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%204SQ3PQ5S5KTH.png" />
+---
+<details>
+<summary>Course 1 (GAN Specialization): Buil Basic Generative Adversarial Networks</summary>
+<br>
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%20HCNGR297W7JD.png" />
+</details>
+
+---
+<details>
+<summary>Course 2 (GAN Specialization): Build Better Generative Adversarial Networks</summary>
+<br>
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%2020C692PG2UREZP.png" />
+</details>
+
+---
+<details>
+<summary>Course 3 (GAN Specialization): Apply Generative Adversarial Networks</summary>
+<br>
+<img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera%2020GFMYF8KNV39C.png" />
+</details>
+
+---
 #### Machine Learning Coursera: <br><br> <img src="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/raw/main/Certificates/Coursera-VTNABLPDN92U.jpg" />
 <br>
 
