@@ -134,13 +134,12 @@ Working on an Artificial Intelligence Vision problem. My job was to design a lig
   *	Use different regression models for different LED colors to detect malfunctioning LEDs
  <br>
  
- 
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
 Working with docker, minikube and some Backend stuff <br> <br>
 
 
 ## Teaching Experiences
-* **TEACHING ASSISTANT | Principles of Artificial Intelligence | FALL 2022** <br>
+* **TEACHING ASSISTANT | PRINCIPLES OF ARTIFICIAL INTELLIGENCE | FALL 2022** <br>
 . Under the supervision of [Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en), Amirkabir University of Technology <br>
 .	 Designing (and grading) projects about Constrained Satisfaction Problems, adversarial search, Bayes Nets, and Reinforcement Learning <br>
 
