@@ -15,9 +15,9 @@ My research interests are:
 University mail: rajabpoura@aut.ac.ir <br>
 My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Resume_Amirhossein_Rajabpour.pdf)]
 - [Projects](#projects)
+- [Education](#education)
 - [Grades](#grades)
 - [Technical Skills](#technical-skills)
-- [Education](#education)
 - [Teaching Experiences](#teaching-experiences)
 - [Research and Work Experiences](#research-and-work-experiences)
 - [Languages](#languages)
@@ -46,6 +46,14 @@ My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.gith
 * [**Operating System Project**: Implementing `scheduling algorithms` and some `system calls` for `XV6 OS`](https://github.com/Amirhossein-Rajabpour/Operating-System-Project)
 * [**Multithreaded Chatroom** written in C](https://github.com/Amirhossein-Rajabpour/Client-Server) <br> <br>
 
+
+## Education
+* **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
+·	GPA: 18.69 (3.95/4) - cGPA: 17.25 (3.68/4)
+
+* **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
+·	GPA: Pre-University 19.35/20 (4/4) <br>
+. GPA: High School 19.41/20 (4/4) <br> <br>
 
 ## Grades
 Some important grades:
@@ -108,15 +116,6 @@ Some important grades:
 <!---
 https://github.com/Ileriayo/markdown-badges
 -->
-
-
-## Education
-* **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 18.69 (3.95/4) - cGPA: 17.25 (3.68/4)
-
-* **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
-·	GPA: Pre-University 19.35/20 (4/4) <br>
-. GPA: High School 19.41/20 (4/4) <br> <br>
 
 
 
