@@ -59,6 +59,7 @@ Some important grades:
 * **Microprocessor and Assembly Language**: 20/20 (4/4) 
 * **Software Engineering 2**: 20/20 (4/4)
 * **Web Programming**: 20/20 (4/4)
+* **Android Programming**: 20/20 (4/4)
 * **Operating Systems**: 18.16/20 (4/4)
 <br> <br>
 
@@ -87,6 +88,7 @@ Some important grades:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <br>
 •	**Miscellaneous**: <br>
+`Kotlin`, 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -110,7 +112,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ## Education
 * **BACHELOR OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	GPA: 18.62 (3.95/4) - cGPA: 17.11 (3.65/4)
+·	GPA: 18.69 (3.95/4) - cGPA: 17.25 (3.68/4)
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH TABATABAEI HIGH SCHOOL, TEHRAN, IRAN | 2014 - 2018** <br>
 ·	GPA: Pre-University 19.35/20 (4/4) <br>
@@ -131,15 +133,24 @@ Working on an Artificial Intelligence Vision problem. My job was to design a lig
   *	Extracting luminance and wavelength from those selected clusters
   *	Use different regression models for different LED colors to detect malfunctioning LEDs
  <br>
-
+ 
+ 
 * **DEVOPS ENGINEER INTERN | GRAPH CO. | NOV 2020 – APR 2021** <br>
 Working with docker, minikube and some Backend stuff <br> <br>
 
 
 ## Teaching Experiences
+* **TEACHING ASSISTANT | Principles of Artificial Intelligence | FALL 2022** <br>
+. Under the supervision of [Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en), Amirkabir University of Technology <br>
+.	 Designing (and grading) projects about Constrained Satisfaction Problems, adversarial search, Bayes Nets, and Reinforcement Learning <br>
+
 * **TEACHING ASSISTANT | CLOUD COMPUTING | FALL 2022** <br>
 . Under the supervision of [S. Ahmad Javadi](https://scholar.google.com/citations?hl=en&user=Va7RTUsAAAAJ), Amirkabir University of Technology <br>
-.	 Designing (and grading) practical assignments about using APIs, working with cloud services, and working with Docker and Kubernetes <br>
+.	Designing (and grading) practical assignments about using APIs, working with cloud services, and working with Docker and Kubernetes <br>
+
+* **TEACHING ASSISTANT | INTERNET OF THINGS | FALL 2022** <br>
+. Under the supervision of [Siavash Khorsandi](https://scholar.google.ca/citations?user=y1zzy74AAAAJ&hl=en), Amirkabir University of Technology <br>
+.	Designing (and grading) assignments about various scenarios for working with different sensors and actuators and programming with Arduino <br>
 
 * **TEACHING ASSISTANT | ALGORITHM DESIGN |  SPRING 2022 & FALL 2021 & SPRING 2021** <br>
 . Under the supervision of [Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en), and [Sajad Shirali-Shahreza](https://sajad.shirali.ir/index.html) Amirkabir University of Technology <br>
