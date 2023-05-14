@@ -12,7 +12,7 @@ My research interests are:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Amirhosein_Rj) <br>
 
-University mail: rajabpoura@aut.ac.ir <br>
+University mail: arajabpo@ualberta.ca, rajabpoura@aut.ac.ir <br>
 My CV [[pdf](https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Resume_Amirhossein_Rajabpour.pdf)]
 - [Projects](#projects)
 - [Education](#education)
@@ -121,7 +121,11 @@ https://github.com/Ileriayo/markdown-badges
 
 
 ## Research and Work Experiences
-* **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2022 – PRESENT** <br>
+* **BACHELORS THESIS | AMIRKABIR UNI. | MAR 2023 – MAY 2023** <br>
+Face aging platform using generative models e.g. CycleGAN and reversible models. Supervised by [Mohammad Rahmati](https://scholar.google.com/citations?user=EYk7M80AAAAJ&hl=en).
+<br>
+
+* **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2022 – JUN 2022** <br>
 Working with a research team supervised by [Hamed Farbe](https://scholar.google.ca/citations?user=PAZOYiAAAAAJ&hl=en). I was responsible for implementing a graph 
 convolutional network from a time series dataset.
 <br>
