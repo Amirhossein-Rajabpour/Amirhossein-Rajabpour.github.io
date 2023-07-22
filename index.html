@@ -13,8 +13,10 @@
     <script>
         async function loadSources(url) {
             // Prepend the CORS proxy to the target URL
-            const proxyUrl = "https://cors-anywhere.herokuapp.com/";
-            const targetUrl = proxyUrl + url;
+            // const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+            // const targetUrl = proxyUrl + url;
+            const targetUrl = url;
+
 
             // Fetch the HTML content
             const response = await fetch(targetUrl);
