@@ -1,4 +1,464 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amirhossein Rajabpour | Portfolio</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding-top: 80px;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+    }
+
+    /* Content links default to blue */
+    .content a {
+    color: #0366d6;
+    text-decoration: underline;
+    }
+    .content a:hover {
+    color: #024a9e;
+    }
+
+    /* Header and resume button links remain white */
+    .header a,
+    #intro a {
+    color: #fdfdfd;
+    text-decoration: none;
+    }
+
+    /* a { color: #fdfdfd; text-decoration: none; } */
+
+    /* Header */
+    .header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 60px;
+      background: #0f395f;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+    .header nav a {
+      margin: 0 15px;
+      font-weight: 500;
+      padding: 8px;
+      transition: color 0.2s;
+    }
+    .header nav a:hover { color: #9f9999; }
+
+    /* Layout */
+    .layout { display: flex; max-width: 1200px; margin: 0 auto; }
+
+    /* Sidebar */
+    .sidebar {
+      flex: 0 0 350px;
+      position: sticky;
+      top: 80px;
+      align-self: flex-start;
+      padding: 20px 0;
+      height: calc(100vh - 80px);
+    }
+    .sidebar .box {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      /* box-shadow: 0 2px 8px #edede9; */
+      transition: transform 0.6s ease, box-shadow 0.6s ease;
+
+      padding: 20px;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+    .sidebar img.profile {
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+    .sidebar h2 {
+      margin: 0 0 15px;
+      font-size: 1.2em;
+    }
+    .sidebar .icons {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start; /* left align */
+      padding-left: 20px; /* align start margin */
+    }
+    .sidebar .icons a.icon-link {
+      display: flex;
+      align-items: center;
+      margin: 8px 0;
+      color: #333;
+      transition: color 0.2s;
+    }
+    .sidebar .icons a.icon-link i {
+      font-size: 1.4em;
+      margin-right: 8px;
+    }
+    .sidebar .icons a.icon-link span.username {
+      font-size: 0.95em;
+      word-break: break-all;
+    }
+    .sidebar .icons a.icon-link:hover { color: #0f395f; }
+
+    .sidebar .box > .icons:first-of-type {
+        flex-direction: row;
+        justify-content: center;
+        padding-left: 0;
+        margin-bottom: 20px;
+        }
+
+    .sidebar .box > .icons:first-of-type a.icon-link {
+        margin: 0 10px;
+    }
+
+    .sidebar .box:hover {
+      transform: translateY(-2px) scale(1.005);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+      /* background: var(--pale-dogwood); */
+    }
+
+    /* Content */
+    .content { 
+        flex: 1; 
+        margin-left: 40px;
+        padding-top: 20px;
+    }
+    section.box {
+      background: #fff;
+      border-radius: 10px;
+      /* box-shadow: 0 2px 8px rgba(0,0,0,0.1); */
+      box-shadow: 0 2px 8px #edede9;
+
+      padding: 20px;
+      margin-bottom: 40px;
+      transition: transform 0.6s ease, box-shadow 0.6s ease;
+      scroll-margin-top: 80px;
+    }
+    section.box:hover {
+      transform: translateY(-2px) scale(1.005);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    }
+    section.box h3 { margin-top: 0; }
+
+    /* About */
+    #intro p { font-size: 1em; line-height: 1.4; }
+    #intro a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 12px;
+      background: #0f395f;
+      color: #fdfdfd;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+    #intro a:hover { background: #023e83; }
+
+    /* Education */
+    .edu-list { display: flex; flex-direction: column; gap: 30px; }
+    .edu-item { display: flex; align-items: center; }
+    .edu-item img.edu-logo {
+      width: 70px;
+      height: 70px;
+      border-radius: 10px;
+      object-fit: cover;
+      margin-right: 20px;
+    }
+    .edu-info p { margin: 5px 0; font-size: 0.95em; line-height: 1.4; }
+
+    /* Lists */
+    .box ul { list-style: none; padding: 0; margin: 0; }
+    .box ul li {
+      position: relative;
+      padding-left: 24px;
+      margin-bottom: 16px;
+      font-size: 0.95em;
+      line-height: 1.4;
+    }
+    .box ul li:before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      top: 0;
+      color: #0366d6;
+      font-size: 1.2em;
+    }
+
+    /* Skills categories */
+    .skills-category { margin-bottom: 16px; }
+    .skills-category h4 { margin: 10px 0 6px; font-size: 1em; }
+    .skills-category .skills { display: flex; flex-wrap: wrap; gap: 8px; }
+    .skill { background: #f0f0f0; border-radius: 6px; padding: 6px 10px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <nav>
+      <a href="#intro">About</a>
+      <a href="#education">Education</a>
+      <a href="#publication">Publication</a>
+      <a href="#research">Research</a>
+      <a href="#work">Work</a>
+      <a href="#skills">Skills</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#courses">Courses</a>
+      <!-- <a href="#projects">Projects</a> -->
+      <a href="#awards">Awards</a>
+    </nav>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="box">
+        <img src="pic.jpeg" alt="Profile Photo" class="profile">
+        <h2>Amirhossein Rajabpour</h2>
+        <p>Graduate student in Computing Science at University of Alberta</p>
+        <p>Edmonton, AB, Canada</p>
+        <div class="icons">
+          <a href="https://github.com/Amirhossein-Rajabpour" target="_blank" class="icon-link"><i class="fab fa-github fa-2x"></i></a>
+          <a href="https://www.linkedin.com/in/amirhossein-rajabpour/" target="_blank" class="icon-link"><i class="fab fa-linkedin fa-2x"></i></a>
+        </div>
+        
+        <div class="icons">
+          <a href="mailto:arajabpo@ualberta.ca" class="icon-link"><i class="fas fa-envelope"></i><span class="username">arajabpo@ualberta.ca</span></a>
+          <a href="mailto:rajabpouramirhosein@gmail.com" class="icon-link"><i class="fas fa-envelope"></i><span class="username">rajabpouramirhosein@gmail.com</span></a>
+          <!-- <a href="https://github.com/Amirhossein-Rajabpour" target="_blank" class="icon-link"><i class="fab fa-github"></i><span class="username">Amirhossein-Rajabpour</span></a>
+          <a href="https://www.linkedin.com/in/amirhossein-rajabpour/" target="_blank" class="icon-link"><i class="fab fa-linkedin"></i><span class="username">amirhossein-rajabpour</span></a> -->
+        </div>
+      </div>
+    </aside>
+
+    <main class="content">
+      <section id="intro" class="box">
+        <h3>About Me</h3>
+        <!-- Name removed -->
+        <p>I'm currently a Masters student in Computing Science at University of Alberta focusing on neurosymbolic programming and reinforcement learning working with Levi Lelis and Sandra Zilles.
+            Before that, I completed my B.Sc. in Computer Engineering at Amirkabir University of Technology.</p>
+        </p>
+        <a href="https://github.com/Amirhossein-Rajabpour/Amirhossein-Rajabpour.github.io/blob/main/Resume_Amirhossein_Rajabpour.pdf" target="_blank">View Resume</a>
+      </section>
+
+      <section id="education" class="box">
+        <h3>Education</h3>
+        <div class="edu-list">
+          <div class="edu-item">
+            <img src="images/ualberta-logo.webp" alt="University of Alberta Logo" class="edu-logo">
+            <div class="edu-info">
+              <strong>M.Sc. Computing Science</strong>
+              <p>University of Alberta, Edmonton, AB</p>
+              <p>2023 – Expected 2025 | Supervisor: <a href="https://webdocs.cs.ualberta.ca/~santanad/">Levi Lelis</a> and <a href="https://www2.cs.uregina.ca/~zilles/">Sandra Zilles</a> | GPA: 3.8</p>
+            </div>
+          </div>
+          <div class="edu-item">
+            <img src="images/aut-logo.png" alt="Amirkabir University Logo" class="edu-logo">
+            <div class="edu-info">
+              <strong>B.Sc. Computer Engineering (AI)</strong>
+              <p>Amirkabir University of Technology, Tehran, Iran</p>
+              <p>2018 – 2023 | Major: AI; Minor: Networks | GPA: 18.75/20 (3.96/4)</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Publication -->
+      <section id="publication" class="box">
+        <h3>Publication</h3>
+        <ul>
+          <li><strong>Common Benchmarks Undervalue the Generalization Power of Programmatic Policies</strong>, NeurIPS Track Position (under review), 2025
+            <p> <strong>Amirhossein Rajabpour</strong>, Kiarash Aghakasiri, Sandra Zilles, Levi Lelis.</p>
+            <p>[<a href="https://github.com/lelis-research/Common-Benchmarks-Undervalue-the-Generalization-Power-of-Programmatic-Policies" target="_blank">Code</a>]</p>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Research -->
+      <section id="research" class="box">
+        <h3>Research Experience</h3>
+        <ul>
+          <li><strong>Research Assistant | University of Alberta </strong> (May 2023 – Present)
+            <p>Conducted research on the generalization capabilities of neural versus programmatic policies that challenges the prevailing view that programmatic policies generalize better on out-of-distribution (OOD) tasks. 
+                Revisiting four influential benchmarks and showed that with small changes—such as simpler neural architectures, sparse observations, and safer reward functions—neural policies match or outperform programmatic ones in OOD generalization. 
+                Also proposed new benchmark ideas that highlight fundamental strengths of programmatic representations, such as memory-based reasoning. Supervised by <a href="https://webdocs.cs.ualberta.ca/~santanad/">Levi Lelis</a> and <a href="https://www2.cs.uregina.ca/~zilles/">Sandra Zilles</a>.
+                [<a href="https://github.com/lelis-research/Common-Benchmarks-Undervalue-the-Generalization-Power-of-Programmatic-Policies" target="_blank">Code</a>]</p>
+            </p>
+          </li>
+          <li><strong>Individual Study Course Project | University of Alberta </strong>(Jan – Apr 2024)
+            <p>Worked on various ways—Implemented hill-climbing search, hill-climbing with exploration, and genetic algorithm—to improve the work "<a href="https://arxiv.org/pdf/2410.11262">UNVEILING OPTIONS WITH NEURAL DECOMPOSITION</a>". 
+                Supervised by  Levi Lelis.</p>
+          </li>
+          <li><strong>RL1 Course Project | University of Alberta </strong> (Fall 2023)
+            <p>Comparing the performance of an expert agent, which uses all computational resources on a single task, against a generalist agent that distributes the same resources across multiple tasks. The study evaluates their performance across various reinforcement learning algorithms like PPO, DQN, and APPO, and explores the impacts of different environments, MiniGrid scenarios, and budgets (<a href="https://github.com/Amirhossein-Rajabpour/Generalist-vs-Expert-Dilemma-in-Reinforcement-Learning/blob/main/Generalist-vs-Expert.pdf">Project Report</a>).</p>
+          </li>
+          <li><strong>Bachelor’s Thesis | Amirkabir University of Technology </strong>(Mar – May 2023)
+            <p>Designed a face aging platform using CycleGAN and reversible models. Supervised by <a href="https://scholar.google.com/citations?user=EYk7M80AAAAJ&hl=en">Mohammad Rahmati</a>. [<a href="https://github.com/Amirhossein-Rajabpour/Face-Aging-Platform-with-Generative-Models">Code</a>]</p>
+          </li>
+          <li><strong>Research Assistant | Amirkabir University of Technology </strong>(Feb – Jun 2022)
+            <p>Implemented GCN for portfolio asset allocation on time-series data. Supervised by <a href="https://scholar.google.ca/citations?user=PAZOYiAAAAAJ&hl=en">Hamed Farbeh</a>.</p>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Work -->
+      <section id="work" class="box">
+        <h3>Work Experience</h3>
+        <ul>
+          <li><strong>Technical Advisement | Alberta MAchine Intelligence Institute (AMII) </strong>(Sep – Oct 2024)
+            <p>Conducting research on advanced AI/ML methods to enhance real-time intrusion detection and anomaly detection in high-speed network storage infrastructures. Focused on improving threat detection accuracy and scalability in multi-cloud environments.</p>
+          </li>
+          <li><strong>Machine Learning Engineer | Crouse PJS Co. </strong>(Oct 2021 – Jan 2022)
+            <p>Working on an Artificial Intelligence Vision problem. My job was to design a light machine learning model to do the following to recognize whether LEDs on the monitor work fine:</p>
+                    <p>- Localizing LEDs on the monitor</p>
+                    <p>- Clustering LED light pixels and using the most valuable clusters for extracting light information with fuzzy C-means clustering</p>
+                    <p>- Extracting luminance and wavelength from those selected clusters</p>
+                    <p>- Applying different regression models for each LED color to detect malfunctioning LEDs</p>
+          </li>
+          <li><strong>DevOps Engineer Intern | Graph Co. </strong>  (Nov 2020 – Apr 2021)
+            <p>Streamlined workflows using Docker, Minikube, and backend tooling.</p>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Skills -->
+      <section id="skills" class="box">
+        <h3>Technical Skills</h3>
+        <div class="skills-category">
+          <h4>Programming Languages</h4>
+          <div class="skills">
+            <div class="skill">Python</div>
+            <div class="skill">C</div>
+            <div class="skill">Java</div>
+            <div class="skill">Kotlin</div>
+            <div class="skill">Octave</div>
+          </div>
+        </div>
+        <div class="skills-category">
+          <h4>AI & ML</h4>
+          <div class="skills">
+            <div class="skill">TensorFlow</div>
+            <div class="skill">PyTorch</div>
+            <div class="skill">Keras</div>
+            <div class="skill">Scikit-learn</div>
+            <div class="skill">Fast.ai</div>
+          </div>
+        </div>
+        <div class="skills-category">
+          <h4>Databases & Backend</h4>
+          <div class="skills">
+            <div class="skill">MySQL</div>
+            <div class="skill">PostgreSQL</div>
+            <div class="skill">MongoDB</div>
+            <div class="skill">Django</div>
+            <div class="skill">Flask</div>
+          </div>
+        </div>
+        <div class="skills-category">
+          <h4>Dev & Tools</h4>
+          <div class="skills">
+            <div class="skill">Git</div>
+            <div class="skill">Docker</div>
+            <div class="skill">OpenCV</div>
+            <div class="skill">Jira</div>
+            <div class="skill">Selenium</div>
+            <div class="skill">XAMPP</div>
+          </div>
+        </div>
+        <div class="skills-category">
+          <h4>Operating Systems & Misc</h4>
+          <div class="skills">
+            <div class="skill">Windows</div>
+            <div class="skill">Linux/Ubuntu</div>
+            <div class="skill">macOS</div>
+            <div class="skill">LaTeX</div>
+            <div class="skill">NumPy</div>
+            <div class="skill">Pandas</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Teaching -->
+    <section id="teaching" class="box">
+    <h3>Teaching Assistant</h3>
+    
+    <h4>Graduate Teaching Experience | University of Alberta</h4>
+    <ul>
+        <li><strong>CMPUT 366: Search & Planning in AI</strong> | Fall 2024, Winter 2025
+        <p>Lectures; labs; grading projects, assignments, exams & quizzes.</p>
+        <p>Instructor: Levi Lelis</p>
+        </li>
+        <li><strong>CMPUT 291: Introduction to File & Database Management</strong> | Fall 2023, Winter 2024
+        <p>Lectures; labs; grading projects, assignments & exams.</p>
+        <p>Instructors: <a href="http://webdocs.cs.ualberta.ca/~drafiei/">Davood Rafiei</a> & <a href="https://apps.ualberta.ca/directory/person/dargahi">Arash Dargahi Nobari</a></p>
+        </li>
+    </ul>
+    
+    <h4>Undergraduate Teaching Experience | Amirkabir University of Technology</h4>
+    <ul>
+        <li><strong>Principles of AI</strong> | Fall 2022
+        <p>Project design & grading on CSPs, adversarial search, Bayesian nets, RL.  </p>
+        <p>Instructor: <a href="https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en">Mahdi Javanmardi</a></p>
+        </li>
+        <li><strong>Cloud Computing</strong> | Fall 2022
+        <p>Design and grade assignments & labs on APIs, cloud services, Docker & Kubernetes. </p>
+        <p>Instructor: <a href="https://scholar.google.com/citations?hl=en&user=Va7RTUsAAAAJ">S. Ahmad Javadi</a></p>
+        </li>
+        <li><strong>Internet of Things</strong> | Fall 2022
+        <p>Designing (and grading) assignments about various scenarios for working with different sensors and actuators and programming with Arduino. </p>
+        <p>Instructor: <a href="https://scholar.google.ca/citations?user=y1zzy74AAAAJ&hl=en">Siavash Khorsandi</a></p>
+        </li>
+        <li><strong>Algorithm Design</strong> | Winter 2021, Fall 2021, Winter 2022
+        <p>Problem sets on greedy, divide & conquer, dynamic programming. </p>
+        <p>Instructors: <a href="https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en">Alireza Bagheri</a> & <a href="https://sajad.shirali.ir/index.html">Sajad Shirali-Shahreza</a></p>
+        </li>
+    </ul>
+    </section>
+
+      <!-- Courses -->
+      <section id="courses" class="box">
+        <h3>Selected Graduate Courses</h3>
+        <ul>
+          <li>Reinforcement Learning 1 (Marlos Machado)</li>
+          <li>Reinforcement Learning 2 (Rich Sutton)</li>
+          <li>Modeling Strategic Behavior (James Wright)</li>
+          <li>Machine Learning (Lili Mou)</li>
+        </ul>
+      </section>
+
+      <!-- Projects -->
+      <!-- <section id="projects" class="box">
+        <h3>Projects</h3>
+        <p>Coming soon: detailed projects with GitHub links and summaries.</p>
+      </section> -->
+
+      <!-- Honors & Awards -->
+      <section id="awards" class="box">
+        <h3>Honors & Awards</h3>
+        <ul>
+          <li>Fully funded admission to UAlberta CS, ECE & Radiology; University of Western Ontario CS (2023)</li>
+          <li>4-year scholarship, Amirkabir University of Technology (2019–2023)</li>
+          <li>Top 1% in Nationwide Math University Entrance Exam (2018)</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
+
+
+
+
+
+<!-- <!DOCTYPE html>
 <html>
 <head>
     <meta http-equiv="refresh" content="0;url=https://amirhossein-rajabpour.notion.site/Portfolio-a48ef30eeabb466897b0fb263b379846?pvs=4">
@@ -6,4 +466,4 @@
 <body>
     <p>If you are not redirected, <a href="https://amirhossein-rajabpour.notion.site/Portfolio-a48ef30eeabb466897b0fb263b379846?pvs=4">click here</a>.</p>
 </body>
-</html>
+</html> -->
